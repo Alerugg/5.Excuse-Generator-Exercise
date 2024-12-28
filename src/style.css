@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.randomButton {
+  border-radius: 5px;
+  background-color: rgb(87, 85, 12);
+  color: #fff;
+}
